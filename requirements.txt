@@ -1,0 +1,9 @@
+selenium>=3.141.0
+pytest>=6.2.4
+allure-pytest>=2.9.43
+allure-python-commons>=2.9.43
+requests>=2.26.0
+zulip>=0.8.0
+pytest-xdist>=2.3.0
+webdriver-manager>=3.4.2
+python-dateutil>=2.8.2

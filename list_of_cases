@@ -1,0 +1,6 @@
+login_2477_id,Login,Test standard login with existing user.,2477
+logout_263_id,Logout,Test standard logout with existing user.,263
+registration_3579_id,Registration,Standard registration.,3579
+resource_page_276_id,Resource Page,Get link to Resource Page and check it.,276
+start_track_2345_id,Start Track,Create new user and start Track.,2345
+why_it_works_3792_id,Why It Works,Find link to Why It Works in Activity and check it.,3792

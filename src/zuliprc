@@ -1,0 +1,4 @@
+[api]
+email=email
+key=secret
+site=some_site
